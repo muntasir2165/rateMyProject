@@ -5,7 +5,7 @@ A MERN Web Application To Review & Rate Software Projects
 
 This app was developed as part of the final group project at the University of Toronto Full Stack Web Development bootcamp. The application was developed using the MERN stack.
 
-[App Link](https://deploy-app-link.herokuapp.com/)
+[Application Link](https://deploy-app-link.herokuapp.com/)
 
 ## Environment Setup
 1) Download and Install the latest version of [Node.js](https://nodejs.org/en/download/) on you computer.
