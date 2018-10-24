@@ -20,13 +20,13 @@ The rest of the steps need to be executed on the Terminal:
 2) cd into the directory rateMyProject.
 3) ...
 
-## Getting Help
+## Help, Support, Feedback...
 
 If help is needed to understand something in the app or just to provide feedback/suggestion, please send an email to support.rateMyProject@gmail.com
 
 ## Author
 
-**FirstName LastName** - [GitHub Profile](https://github.com/username)
-**FirstName LastName** - [GitHub Profile](https://github.com/username)
-**FirstName LastName** - [GitHub Profile](https://github.com/username)
-**FirstName LastName** - [GitHub Profile](https://github.com/username)
+**FirstName LastName** - [GitHub Profile](https://github.com/username)<br />
+**FirstName LastName** - [GitHub Profile](https://github.com/username)<br />
+**FirstName LastName** - [GitHub Profile](https://github.com/username)<br />
+**FirstName LastName** - [GitHub Profile](https://github.com/username)<br />
