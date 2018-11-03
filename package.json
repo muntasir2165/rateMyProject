@@ -1,7 +1,7 @@
 {
   "name": "rateMyProject",
   "version": "1.0.0",
-  "description": "A MERN Web Application To Review & Rate Software Projects",
+  "description": "Dribble for Developers - A MERN Web App to Review & Rate Software Projects",
   "main": "server.js",
   "scripts": {
     "server": "node server.js",
