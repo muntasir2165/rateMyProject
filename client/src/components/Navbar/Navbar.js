@@ -2,7 +2,7 @@ import React from "react";
 import "./Navbar.css";
 
 const Navbar = () => (
-  <row>
+  <div>
     <col-md-12>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <a className="navbar-brand" href="/">
@@ -11,11 +11,16 @@ const Navbar = () => (
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
-        <div classNameName="collapse navbar-collapse" id="navbarSupportedContent">
+        <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav mr-auto">
             <li>
               <a className="nav-item" href="/dashboard">
                 Dashboard
+              </a>
+            </li>
+            <li>
+              <a className="nav-item" href="/CreateUser">
+                Create User
               </a>
             </li>
             <li>
@@ -32,7 +37,7 @@ const Navbar = () => (
         </div>
       </nav>
     </col-md-12>
-  </row>
+  </div>
 );
 
 export default Navbar;
