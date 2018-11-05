@@ -3,13 +3,11 @@ import LoginPage from "./LoginPage"
 import DashBoard from "./DashBoard"
 import Features from "./Features"
 import AboutUs from "./AboutUs"
-import CreateUser from "./CreateUser"
 
 import React, { Component } from "react";
-//import { unwatchFile } from "fs";
 class Container extends Component {
     state = {
-        currentPage: "createUser"
+        currentPage: "LoginPage"
     };
 
     handlePageChange = page => {
@@ -25,8 +23,6 @@ class Container extends Component {
             return <LoginPage />
         } else if (this.state.currentPage === "AboutUs") {
             return <AboutUs />
-        }else if(this.state.currentPage==="CreateUser"){
-            return <CreateUser />
         }
         else {
 

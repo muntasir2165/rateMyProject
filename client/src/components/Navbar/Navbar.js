@@ -2,7 +2,7 @@ import React from "react";
 import "./Navbar.css";
 
 const Navbar = () => (
-  <div>
+  <row>
     <col-md-12>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <a className="navbar-brand" href="/">
@@ -37,7 +37,7 @@ const Navbar = () => (
         </div>
       </nav>
     </col-md-12>
-  </div>
+  </row>
 );
 
 export default Navbar;
